@@ -14,5 +14,6 @@
         "REGHEXVALUE",
         "REGTYPE"
     ],
-    "azure-pipelines.1ESPipelineTemplatesSchemaFile": true
+    "azure-pipelines.1ESPipelineTemplatesSchemaFile": true,
+    "DockerRun.DisableDockerrc": true
 }
